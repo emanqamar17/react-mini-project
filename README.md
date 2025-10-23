@@ -17,26 +17,26 @@ This is a **React.js mini project** built during my **YoungDev Fullstack Interns
 
    git clone https://github.com/emanqamar17/react-mini-project.git
 
-Go inside the project folder
+-Go inside the project folder
 
 cd react-mini-project
 
-Install all dependencies:
+-Install all dependencies:
 
 npm install
 
-Start the development serve:r
+-Start the development serve:r
 
 npm start
 
-The project will open automatically at http://localhost:3000
+-The project will open automatically at http://localhost:3000
 
-Project Overview:
+**Project Overview**:
 
 This project demonstrates how to set up and style a React application using Tailwind CSS.
 It was created as part of my internship task to practice modern front-end tools and responsive design.
 
-Deployment:
+**Deployment**:
 
 The project will be deployed using Vercel for fast and easy hosting.
 
